@@ -1,1 +1,1 @@
-<h1> FindMyURL </h1>
+<h1 align="center"> FindMyURL </h1>
